@@ -1,4 +1,4 @@
-<?php
+<?php // NOT SYNCED WITH GIT
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 /*
